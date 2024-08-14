@@ -31,8 +31,7 @@
 5. Run the application
    ```bash
    streamlit run app.py
-
-
+   
 ## Conclusion
 The **AzureKinectStreamFusion** project leverages the power of the Azure Kinect SDK and advanced data fusion techniques to deliver synchronized multimodal visualizations in real time. By combining RGB and infrared data streams with matrix addition and concatenation, this project showcases innovative sensor fusion in a user-friendly and interactive web interface using Streamlit.
 
